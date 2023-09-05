@@ -5,7 +5,7 @@
 
 I am SC.
 
-I am a student at UT austin interested in Psychology.
+I am a student at UT austin interested in Psychology. I am a senior student exploring data science and its possibilities for research.
 
 Here are some ideas to get you started:
 
